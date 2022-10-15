@@ -14,7 +14,21 @@ The program for Blender is written in Python as Blender script.
 
 ### Windows app
 <p align="center">
-<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/AndroidApp.png?raw=true" width="300" height="600" />
+<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/WinApp.jpg?raw=true" width="1280" height="400" />
 </[>
 
 
+### Blender app
+<p align="center">
+<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/BlenderApp.png?raw=true" width="1280" height="600" />
+</[>
+
+
+### Android app
+<p align="center">
+<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/AndroidApp.png?raw=true" width="1280" height="600" />
+</[>
+
+<p align="center">
+<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/AppInventor.png?raw=true" width="700" height="450" />
+</[>

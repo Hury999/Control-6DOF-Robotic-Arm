@@ -8,9 +8,13 @@ The idea of this project is to enable people to familiarise themselves with robo
 The control program for the robotic arm is written in Arduino with several additional libraries enabling multithreading and controlling servo motors.
 
 ### Control Software
-Control software is written for Windows, Android, and 3D Program Blender. Software for Windows is written in C# using Windows Forms. For Android, we will use a rapid development methodology so that way saving time in developing prototype applications.
+Control software is written for Windows, Android, and 3D Program Blender. Software for Windows is written in C# using Windows Forms. For Android, we will use a Rapid Application Development Methodology so that way saving time in developing prototype applications.
 The program for Blender is written in Python as Blender script.
 
 
+### Windows app
+<p align="center">
+<img src="https://github.com/Hury999/Control-6DOF-Robotic-Arm/blob/main/Images/AndroidApp.png?raw=true" width="300" height="600" />
+</[>
 
 

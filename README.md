@@ -8,7 +8,7 @@ The idea of this project is to enable people to familiarise themselves with robo
 The control program for the robotic arm is written in Arduino with several additional libraries enabling multithreading and controlling servo motors.
 
 ### Control Software
-Control software is written for Windows, Android, and 3D Program Blender. Software for Windows is written in C# using Windows Forms. For Android, we will use MIT App Inventor as a Rapid Application Development Methodology so that way saving time in developing prototype applications.
+Control software is written for Windows, Android, and 3D Program Blender. Software for Windows is written in C# using Windows Forms. For Android, MIT App Inventor used as a Rapid Application Development Methodology so that way saving time in developing prototype applications.
 The program for Blender is written in Python as Blender script.
 
 
